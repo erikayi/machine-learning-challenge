@@ -1,2 +1,2 @@
-# machine-learning-challenge
-Exoplanet Exploration Project
+# Machine Learning Challenge
+### Exoplanet Exploration Project
